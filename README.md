@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xhex</h1>
+<h1 align="center">Hi, I'm Xhex</h1>
 <h3 align="center">Average rust enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xhex4&label=Profile%20views&color=c20f0f&style=flat" alt="xhex4" /> </p>

@@ -7,12 +7,13 @@
 
 - 💬 Ask me about **anything tech or wildlife**
 
-- 💬 I’m looking to collaborate on **blue team software**
+- 💬 Hit me up if you want to work on **cryptography tools**
 
-- 💬 I’m currently learning **asm**
+- 💬 I’m currently investigating **the great works of TempleOS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- Telepathically communicate with me 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
